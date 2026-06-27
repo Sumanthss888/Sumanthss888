@@ -1,4 +1,4 @@
-# Sumanth
+# Sumanth S
 ### Engineering intelligent systems from research to production
 
 Recent Computer Science & Engineering graduate specializing in Big Data Analytics. Developer with a proven record of building and shipping AI/ML systems, scalable data pipelines, and polished full-stack applications.
