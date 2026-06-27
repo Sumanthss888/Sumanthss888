@@ -4,7 +4,7 @@
 Recent Computer Science & Engineering graduate specializing in Big Data Analytics. Developer with a proven record of building and shipping AI/ML systems, scalable data pipelines, and polished full-stack applications.
 
 **SRM Institute of Science and Technology, KTR Campus**  
-B.Tech in Computer Science & Engineering (Specialization: Big Data Analytics) · CGPA: 9.16 / 10
+B.Tech in Computer Science & Engineering (Specialization: Big Data Analytics) · CGPA: 9.36 / 10
 
 ---
 
